@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ks33JZ0UunSCl/hfpKQdvOOzaXKTFSg+rozFtO4KYkOQQUV4gjtowQFjpvch/2PGBMjtew9WZ+w2+LcliVcTfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filippo\\source\\repos\\GestoreIot\\GestoreIot\\GestoreIot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filippo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\newtonsoft.json.schema\\3.0.15\\newtonsoft.json.schema.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
