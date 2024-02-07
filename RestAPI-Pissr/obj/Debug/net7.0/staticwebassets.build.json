@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5qG51GimpN87SdEeuq478nouuBK0cj+XnxIkUZxUHQ=",
+  "Source": "RestAPI-Pissr",
+  "BasePath": "_content/RestAPI-Pissr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
