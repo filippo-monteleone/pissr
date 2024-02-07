@@ -1,0 +1,10 @@
+id: AttuatoreGui
+language: CSharp
+name:
+  Default: AttuatoreGui
+qualifiedName:
+  Default: AttuatoreGui
+type: Assembly
+modifiers: {}
+items: []
+references: {}

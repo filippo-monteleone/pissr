@@ -1,0 +1,152 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AttuatoreGui/1.0.0": {
+        "dependencies": {
+          "AttuatoreMqtt": "1.0.0",
+          "Terminal.Gui": "1.14.1"
+        },
+        "runtime": {
+          "AttuatoreGui.dll": {}
+        }
+      },
+      "MQTTnet/4.3.3.952": {
+        "runtime": {
+          "lib/net7.0/MQTTnet.dll": {
+            "assemblyVersion": "4.3.3.952",
+            "fileVersion": "4.3.3.952"
+          }
+        }
+      },
+      "NStack.Core/1.0.7": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NStack.dll": {
+            "assemblyVersion": "1.0.7.0",
+            "fileVersion": "1.0.7.0"
+          }
+        }
+      },
+      "System.CodeDom/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.CodeDom.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Management/7.0.2": {
+        "dependencies": {
+          "System.CodeDom": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Management.dll": {
+            "assemblyVersion": "7.0.0.2",
+            "fileVersion": "7.0.723.27404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.2",
+            "fileVersion": "7.0.723.27404"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {},
+      "Terminal.Gui/1.14.1": {
+        "dependencies": {
+          "NStack.Core": "1.0.7",
+          "System.Management": "7.0.2"
+        },
+        "runtime": {
+          "lib/net7.0/Terminal.Gui.dll": {
+            "assemblyVersion": "1.14.1.0",
+            "fileVersion": "1.14.1.0"
+          }
+        },
+        "resources": {
+          "lib/net7.0/fr-FR/Terminal.Gui.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net7.0/ja-JP/Terminal.Gui.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net7.0/pt-PT/Terminal.Gui.resources.dll": {
+            "locale": "pt-PT"
+          }
+        }
+      },
+      "AttuatoreMqtt/1.0.0": {
+        "dependencies": {
+          "MQTTnet": "4.3.3.952"
+        },
+        "runtime": {
+          "AttuatoreMqtt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttuatoreGui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/4.3.3.952": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6AFOGkdnqzIfvaPbTnPLYvBibBdGfJlTTWonIZp+VHpRy6fEl+KT9Z1AG1/4AaDAw5TJ0WpqCmrV9TVUWkLffg==",
+      "path": "mqttnet/4.3.3.952",
+      "hashPath": "mqttnet.4.3.3.952.nupkg.sha512"
+    },
+    "NStack.Core/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eqvSscta9zPXMOLRDdYf/6FloygLC9ejZlGoLiejn9XZHxVuGYnSoPzb5YBrgyMih/0yfVejreRmJTUQ64sYew==",
+      "path": "nstack.core/1.0.7",
+      "hashPath": "nstack.core.1.0.7.nupkg.sha512"
+    },
+    "System.CodeDom/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GLltyqEsE5/3IE+zYRP5sNa1l44qKl9v+bfdMcwg+M9qnQf47wK3H0SUR/T+3N4JEQXF3vV4CSuuo0rsg+nq2A==",
+      "path": "system.codedom/7.0.0",
+      "hashPath": "system.codedom.7.0.0.nupkg.sha512"
+    },
+    "System.Management/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/qEUN91mP/MUQmJnM5y5BdT7ZoPuVrtxnFlbJ8a3kBJGhe2wCzBfnPFtK2wTtEEcf3DMGR9J00GZZfg6HRI6yA==",
+      "path": "system.management/7.0.2",
+      "hashPath": "system.management.7.0.2.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "Terminal.Gui/1.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vPVVVXSlgoSdbd88MoPMRrh6xN0Z/4jrYoUVMj2eDFV3O1SG8dlt7kxxBHtgPH6DNKDERwju0+5TEHRTWxgPIw==",
+      "path": "terminal.gui/1.14.1",
+      "hashPath": "terminal.gui.1.14.1.nupkg.sha512"
+    },
+    "AttuatoreMqtt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

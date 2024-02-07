@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8LguEj7qKalzdeA0rqaV+rEloxZre9qwu+TNyeYyxgnKMiBN8YvJ7hDaouzGZaUEM/m6gVzXi7yeG3f+OLg8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filippo\\source\\repos\\Sensore\\Sensore\\SensoreGui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filippo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\nstack.core\\1.0.7\\nstack.core.1.0.7.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Filippo\\.nuget\\packages\\terminal.gui\\1.14.1\\terminal.gui.1.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
