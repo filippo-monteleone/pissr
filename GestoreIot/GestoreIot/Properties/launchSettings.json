@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GestoreIot1": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "GestoreIot2": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    }
+  }
+}
